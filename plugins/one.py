@@ -9,3 +9,7 @@ class Plugin:
 
     def execute(self):
         print("Executing plugin one")
+
+
+
+
